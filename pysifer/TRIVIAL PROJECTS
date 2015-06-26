@@ -1,0 +1,33 @@
+This is a compiled list of toy ideas that I found on the internet. I have either coded or know how to in Python and decided to move on.
+
+1.) RPG Character Sheet Generator
+For mage, have higher range in mg than str and agi.
+For warrior, have higher range in str than agi and mg.
+For rogue, have higherrange in agi than str and mg.
+This sets the base for characters. 
+
+2.) "Who am I?" / Name Art
+This program displays the first and last name. This is basically the same as creating an art by generating ASCII. It's very time consuming. Great for absolute beginners.
+
+3.) Variables
+Make a variable. Store value into said variable. Display variable. Same as #2. Very good for beginner.
+
+4.) Circling
+Import math to use pi. From there, calculate the formula of the area and perimeter (circumference) of a circle.
+
+5.) Temperature
+Get temperature in Fahrenheit from user then convert and display in Celsius.
+
+6.) Head or Tail
+Import random to use randint. Basically a coin toss program.
+
+7.) Rock-Paper-Scissors
+Good way to test the student on the use of if-elif-else. Ask user to pick one. The opponent is a computer. Use randint (from random) to generate the computer's choice(s).
+
+8.) Apparently according to an article on Business Insider, this is a question Google asked: “Write a function with the following specification: Input: a list. Output: a copy of the list with duplicates removed.”
+
+It seems simple enough. Since it’s just a matter of taking each element and checking for duplicate before moving onto the next element, it is O(n^2). Just set each element to a variable in increment. It ends when your variable is equal to the last element in the set or list. 
+
+If I understand right, it also asks for a copy, I am assuming we need the original untouched, then just make a copy of the original, leaving the original untouched. Just work on the copied version and take it from there.
+
+http://www.businessinsider.com/how-to-get-a-google-internship-and-job-2015-5

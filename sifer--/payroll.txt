@@ -1,0 +1,4 @@
+Steele	100
+Katz	90
+Sterling	75
+Sifer 1000000
