@@ -8,3 +8,5 @@ Also the judges on “UVa Online Judge” sucks. Even the book “Programming Ch
 Not feeling TopCoder platform either. It seems to parse regex differently. What works on my compiler doesn't work on their's for some reason.
 
 ...
+
+Poked around. Turns out regex is poorly implemented in a lot of C++ compilers.
