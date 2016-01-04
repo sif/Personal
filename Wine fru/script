@@ -1,0 +1,6 @@
+killall warpatch.bin
+killall warpatch.exe
+cd [directory of your war]
+chown -R [your username here] [directory of your war]
+chmod 0755 -R [directory of your war]
+WINEDEBUG=fixme-all wine warpatch.bin
