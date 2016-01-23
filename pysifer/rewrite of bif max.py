@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Sifer Aseph
-ryra
+https://github.com/ryra
 A module that rewrites the builtin function max() as an exercise. Ahem, this is my solution to a certain website. If you're here, you're probably cheating. 
 '''
 

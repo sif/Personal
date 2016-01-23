@@ -1,5 +1,6 @@
 /*
   Sifer Aseph
+  https://github.com/ryra
   Insertion Sort
 
   Insertion sort can be O(1), O(n) or O(n^2) when properly implemented.

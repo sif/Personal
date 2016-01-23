@@ -1,9 +1,12 @@
+Sifer Aseph
+https://github.com/ryra
+
 This is a compiled list of toy ideas that I found on the internet. I have either coded or know how to in Python and decided to move on.
 
 1.) RPG Character Sheet Generator
 For mage, have higher range in mg than str and agi.
 For warrior, have higher range in str than agi and mg.
-For rogue, have higherrange in agi than str and mg.
+For rogue, have higher range in agi than str and mg.
 This sets the base for characters. 
 
 2.) "Who am I?" / Name Art

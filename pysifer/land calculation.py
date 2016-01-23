@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Sifer Aseph
-ryra
+https://github.com/ryra
 A module to convert square feet into acre. 
 '''
 

@@ -1,5 +1,6 @@
 /*
   Sifer Aseph
+  https://github.com/ryra
   Primitive Doubly Linked List
  */
 

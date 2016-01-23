@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Sifer Aseph
-# ryra
+# https://github.com/ryra
 # I have no idea why I wrote this simple code but I did. To entertain you I included a joke: 
 # Q: Why do programmers always mix up Halloween and Christmas?
 # A: Because Oct 31 == Dec 25!

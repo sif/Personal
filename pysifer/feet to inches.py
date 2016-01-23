@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # Sifer Aseph
-# ryra
+# https://github.com/ryra
 # This code will convert feet to inches.
 
 def getFeet():

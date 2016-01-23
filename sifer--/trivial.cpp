@@ -1,4 +1,5 @@
 //  Sifer Aseph
+//  https://github.com/ryra
 //  Trivial on Xcode
 
 #include <iostream>
