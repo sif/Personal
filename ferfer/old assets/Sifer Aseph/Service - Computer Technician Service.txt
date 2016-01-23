@@ -1,0 +1,27 @@
+Would you rather trust your computer with somebody you probably won't see the second or third time? With me you know it's only one person. You won't ever have to say "I am looking for that person who was fixing my computer last week, my computer have the same problem". When you call me, you know I'm not going anywhere.
+
+Unlike many repair shops, I really do value your privacy and I will do everything I can to protect it. With me <strong>everything</strong> is confidential.
+
+<ul>
+<li><em>System Building</em>
+I can build you a custom PC of your need and desire. Are you a professional who have specific needs? I can build a computer for professional fields that require the use of CAD, video editing and graphic editing. I can rig up a gaming beast or build for students on budget.</li>
+<li><em>System Upgrading</em>
+What if you already have a computer and you just want to make it work better? I can make it faster or give you suggestions on how to make it faster.</li>
+<li><em>Networking</em>
+And I'm not talking about taking your place and making friends for you. Computer networking - I can provide troubleshooting on existing networks or I can setup and configure a secured network for your place.</li>
+<li><em>Virus & Co (Malware)</em>
+I provide <strong>professional</strong> grade virus and malware removal. A malware can be anything from trojans and worms to spyware and adware. I will teach you how to avoid getting infected in the future after removing the problem.</li>
+</ul>
+
+If you are unfortunate enough to not use my service, I will provide a quick tip for you regarding computer repair, a warning:
+<ol>
+<li>Beware of anybody who claims they can make your laptop faster via hardware changes (such as by adding more RAM). Some laptop have warranty stickers that if you peel it, it voids the warranty. So don't hand your laptop to anybody who will tear it off. If yours is one of said laptop, I will let you know to give the laptop to the brand you bought it from.</li>
+<li>Beware of how other "professional" technicians remove virus & co for you. Many will just re-install everything and erase everything precious to you. I've seen this happen, they won't even ask if you have anything on there that you want to save. 
+
+The procedure for removing virus & co differs depending on what it actually is. There are online guides but they aren't always easy to follow and will take up a lot of time if you don't know what you are doing. I've often seen people end resorting to the last step - completely reinstalling their operating system for a problem they thought difficult and complicated. Sometimes it's not a virus, but a dying system (clicking hard drive, etc).</li>
+</ol>
+
+Here is a (small) list of guides that can help you:
+<a href="http://home.comcast.net/~supportcd/MalwareRemoval.html">Malware Removal Guide</a>
+<a href="http://www.bleepingcomputer.com/forums/forum55.html">Bleeping Computer - Spyware and Malware Removal Guides and Reading Room</a>
+<a href="http://www.maximumpc.com/article/howtos/ultimate_malware_removal_guide_purge_your_pc_junk_files?page=0,0">Maximum PC - Ultimate Malware Removal Guide</a>
