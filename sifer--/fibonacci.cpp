@@ -21,7 +21,7 @@ int recursiveFibonacci(int number) {
 }
 
 int main(){
-    std::cout << recursiveFibonnaci(15) << std::endl;
+    std::cout << recursiveFibonacci(15) << std::endl;
   
     return 0;
 }
