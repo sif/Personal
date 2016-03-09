@@ -21,7 +21,7 @@ public:
     wrapper() {
         head = nullptr;
     }
-
+    
     void create(int createStuff) {
         struct node * aNode;
         struct node * temp;
@@ -43,9 +43,12 @@ public:
         }
 
     }
+    
+    
 };
 
 int main() {
+    
 
     return 0;
 }
