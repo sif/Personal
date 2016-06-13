@@ -1,0 +1,7 @@
+To install:
+wine GwSetup.exe
+
+Suggested setting:
+Allow Pixel Shader
+Set Vertex Shader Support to Hardware
+Do not allow window manager to control the window (this prevent common desktop hotkey to activate during gameplay such as switch desktop)
