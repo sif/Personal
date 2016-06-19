@@ -30,7 +30,7 @@ Welcome to my little corner. I’ve been cleaning up since I am getting close to
 ### School Projects
 ---
 * School project relates to work done at KCC or NYU. 
-* Most of the code at KCC were in C/C++. 
+* Most of the code at KCC were in C++. 
 * Most of the work at NYU were done in C/C++/Python. 
 * My professors said to not put up their code. So...
 * As a result, mostly for referencing.  
