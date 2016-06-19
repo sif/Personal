@@ -1,5 +1,3 @@
-##### Sifer Aseph (ryra)
-
 ### Introduction
 ---
 Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all.
