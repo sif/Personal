@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- Genetics
+ TopCoder: Genetics
  
  200 Points
  
