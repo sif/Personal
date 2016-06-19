@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- FolderSize
+ TopCoder: FolderSize
  
  500 Points
  */
