@@ -4,7 +4,7 @@ Welcome to my little corner. I’ve been cleaning up since I am getting close to
 This is my itinerary:
 1. Graduate
 2. Get into more competition
-..* 
+..* stuff
 3. 
 
 
