@@ -1,7 +1,6 @@
 /*
  Sifer Aseph
- SimpleCalculator
- 
+ TopCoder: SimpleCalculator
  http://community.topcoder.com/stat?c=problem_statement&pm=2272
  */
 
