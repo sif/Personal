@@ -1,2 +1,0 @@
-Sifer Aseph
-ryra
