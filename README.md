@@ -7,7 +7,6 @@ Welcome to my little corner. I’ve been cleaning up since I am getting close to
 | Branch Name      | Read As             |
 |:----------------:|:-------------------:|
 | ferfer           | Web                 |
-| objective-s      | Objective-C         |
 | othersifer       | Miscellaneous       |
 | pysifer          | Python              |
 | sfru             | My FRU              |
