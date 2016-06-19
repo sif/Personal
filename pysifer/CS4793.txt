@@ -1,7 +1,0 @@
-1.) Web Server
-An actual working web server, how cool is that?
-
-2.) UDP Pinger Server + UDP Pinger Client
-
-3.) ICMP Traceroute
-
