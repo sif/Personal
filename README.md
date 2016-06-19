@@ -4,9 +4,7 @@ Welcome to my little corner. I’ve been cleaning up since I am getting close to
 This is my itinerary:
 1. Graduate
 2. Get into more competition
-..* stuff
-3. 
-
+3. Figure out what to keep and what to discard
 
 ### Table of Content
 ---
