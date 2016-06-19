@@ -20,3 +20,8 @@ I think I will have lots of competition code up.
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |                                                               |
 | sifernoswifting  | Swift               |                                                               |
+
+### Contact
+---
+Feel free to contact me at: myfirstname.mylastname@nyu.edu
+I am free in June and August for 2016!
