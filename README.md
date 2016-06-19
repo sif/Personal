@@ -3,19 +3,33 @@
 
 ### Introduction
 
-When I asked Professor Sterling if I could put up my homework, he said not to, so.. and when I asked around, I understood why. (The other professors preferred that I didn’t.) So instead, I chose to put up descriptions. 
-
-I just need time so I can do some clean-up. Instead of code request, I’m just going to put up alternative code to showcase skills. I’m nearing graduation so I have a bit of time after Spring 16.
+Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all.
 
 ### Table of Content
 
-| Branch Name      | Read As         |
-|:----------------:|:---------------:|
-| ferfer           |                 |
-| objective-s      |                 |
+| Branch Name      | Read As             |
+|:----------------:|:-------------------:|
+| ferfer           | Web                 |
+| objective-s      | Objective-C         |
+| othersifer       | Miscellaneous       |
+| pysifer          | Python              |
+| sfru             | My FRU              |
+| sifer--          | C++                 |
+| sifercontest     | My competition code |
+| sifernoswifting  | Swift               |
 
 ### Work Projects
 
+* Work code have been removed or merely referenced. 
+
 ### School Projects
 
+* School project relates to work done at KCC or NYU. 
+* Most of the code at KCC were in C/C++. 
+* Most of the work at NYU were done in C/C++/Python. 
+* My professors said to not put up their code. So...
+* As a result, mostly for referencing.  
+
 ### License
+
+I use GNU AGPLv3. 
