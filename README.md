@@ -16,7 +16,6 @@ I think I will have lots of competition code up.
 | ferfer           | Web                 |  Web related stuff.                                           |
 | othersifer       | Miscellaneous       |  Everything else.                                             |
 | pysifer          | Python              |                                                               |
-| sfru             | My FRU              |  Should probably be in miscellaneous.                         |
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |                                                               |
 | sifernoswifting  | Swift               |                                                               |
