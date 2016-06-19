@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- Hawaiian
+ TopCoder: Hawaiian
  
  200 Points
  */
