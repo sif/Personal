@@ -9,15 +9,15 @@ This is my itinerary:
 
 ### Table of Content
 ---
-| Branch Name      | Read As             |
-|:----------------:|:-------------------:|
-| ferfer           | Web                 |
-| othersifer       | Miscellaneous       |
-| pysifer          | Python              |
-| sfru             | My FRU              |
-| sifer--          | C++                 |
-| sifercontest     | My competition code |
-| sifernoswifting  | Swift               |
+| Branch Name      | Read As             | Description                                                   |
+|:----------------:|:-------------------:|---------------------------------------------------------------|
+| ferfer           | Web                 |                                                               |
+| othersifer       | Miscellaneous       |                                                               |
+| pysifer          | Python              |                                                               |
+| sfru             | My FRU              |                                                               |
+| sifer--          | C++                 |                                                               |
+| sifercontest     | My competition code |                                                               |
+| sifernoswifting  | Swift               |                                                               |
 
 ### Work Projects
 ---
