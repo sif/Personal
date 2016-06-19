@@ -3,7 +3,7 @@
  TopCoder: KitayutaMart2
  http://community.topcoder.com/stat?c=problem_statement&pm=13650
 
- Note: K is yen, T is total paid
+ K is yen, T is total paid
  One apple sold is K yen, two apples sold is 2 * K yen, three apples sold 2_2 * K yen. The formula is: 2_(i-1) * K yen
  Correction: 2^(i-1) * K yen, not 2_(i-1) * K yen
  With i-th (1 <= i <= n).
