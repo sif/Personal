@@ -8,6 +8,7 @@ This is my itinerary:
 3. Figure out what to keep and what to discard
 
 I think I will have lots of competition code up.
+As time goes on, I'm trying to consolidate everything.
 
 ### Table of Content
 ---
