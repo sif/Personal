@@ -8,7 +8,14 @@ When I asked Professor Sterling if I could put up my homework, he said not to, s
 I just need time so I can do some clean-up. Instead of code request, I’m just going to put up alternative code to showcase skills. I’m nearing graduation so I have a bit of time after Spring 16.
 
 ### Table of Content
+
 | Branch Name      | Read As         |
-|------------------|-----------------|
+|:----------------:|:---------------:|
 | ferfer           |                 |
 | objective-s      |                 |
+
+### Work Projects
+
+### School Projects
+
+### License
