@@ -1,7 +1,0 @@
-When running WoW with Wine on Slackware 12.0:
-
-1.) Disable pixel shader.
-
-2.) Put the following in /mnt/wow/World of Warcraft/WTF/Config.wtf:
-SET gxApi "opengl"
-SET gxCursor "0"
