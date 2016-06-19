@@ -20,13 +20,3 @@ I think I will have lots of competition code up.
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |                                                               |
 | sifernoswifting  | Swift               |                                                               |
-
-
-
-### Competition
---- 
-* "UVa Online Judge" sucks. Shouldn't be used to judge my coding. Even the book "Programming Challenges" thinks so. It takes several try sometimes and I have come to accept the fact that if it doesn't take my answer but the output matches, I'm going to accept it personally.
-* TopCoder platform isn't what it used to be. It parses regex differently. What works on my compiler doesn't always work on their's for some reason. This issue has been brought up before by others.
-* Poked around. Turns out regex is poorly implemented in a lot of C++ compilers.
-
-
