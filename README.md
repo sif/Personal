@@ -26,4 +26,4 @@ Please be nice!
 
 ### Contact
 ---
-Feel free to contact me at: myfirstname.mylastname@nyu.edu
+Feel free to contact me at: sifer.aseph@nyu.edu
