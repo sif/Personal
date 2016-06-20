@@ -9,8 +9,7 @@ This is my itinerary:
 <li>Figure out what to keep and what to discard</li>
 </ol>
 
-I think I will have lots of competition code up.
-As time goes on, I'm trying to consolidate everything.
+I think I will have lots of competition code up. As time goes on, I'm trying to consolidate everything.
 
 Please be nice!
 
