@@ -21,7 +21,7 @@ Please be nice!
 | othersifer       | Miscellaneous       |  Everything else.                                             |
 | pysifer          | Python              |                                                               |
 | sifer--          | C++                 |                                                               |
-| sifercontest     | My competition code |                                                               |
+| sifercontest     | My competition code |  Start here                                                   |
 | sifernoswifting  | Swift               |                                                               |
 
 ### Contact
