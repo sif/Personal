@@ -12,6 +12,8 @@ This is my itinerary:
 I think I will have lots of competition code up.
 As time goes on, I'm trying to consolidate everything.
 
+Please be nice!
+
 ### Table of Content
 ---
 | Branch Name      | Read As             | Description                                                   |
