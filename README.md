@@ -1,6 +1,6 @@
 ### Introduction
 ---
-Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all. Please check out my wiki for more information.
+Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all. My wiki includes my scribbling.
 This is my itinerary:
 
 <ol>
