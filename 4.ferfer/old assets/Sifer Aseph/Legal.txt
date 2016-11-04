@@ -1,0 +1,19 @@
+<strong>Overall</strong>
+
+The content of this website is not intended to cause any injury, defamation or libel to anyone. I, the author and owner of this website, bear no responsibility for the readers' interpretations of what I write and for any opinions they may form as a result. The content of this website consists strictly of my subjective opinions and is to be treated as such. I bear no responsibility for injury or damage caused as a result of the use of any advice, tips, techniques and recommendations published on this website.
+
+<strong>Disclaimer</strong>
+
+<ol>
+<li><em>Affiliation</em>
+My work is intended to display my abilities and skills, not for example, show which political party I am affiliated with or support because I created a site for republicans or democrats.</li>
+<li><em>Screenshots</em>
+Technology moves fast and because of that I'm unable to use the latest screenshots.
+Intranet/private websites aren't shown for obvious reasons.</li>
+<li><em>Programs</em>
+What you download outside of my website is not my responsibility. If you did not download my programs here at my website, it's not my responsibility. 
+I don't know what changes others made. I can only guarantee my own website and that's this - there is no virus, worm, or any malicious scripts.</li>
+<li><em>Projects</em>
+I did not list projects that are private, intranet, NDA, etc.
+</li>
+</ol>
