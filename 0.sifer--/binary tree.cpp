@@ -4,6 +4,9 @@
  Tree
  */
 
+// Next time, I am going to update the code to use smart pointers, like unique_ptr.
+// The deletion function was just a bad idea.
+
 #include <iostream>
 
 //template <class T>
@@ -22,7 +25,7 @@ class Tree {
 public:
     Tree(): root(nullptr) {};
     ~Tree() {
-        deleteTree();
+        deleteTree(root); // This part got called twice when I called aTree.deleteTree(); so I had to re-do this.
     }
     
     void insert(int key) {
@@ -40,9 +43,11 @@ public:
         return search(key, root);
     }
     
-    void deleteTree() {
-        deleteTree(root);
-    }
+    /*
+     void deleteTree() {
+     deleteTree(root);
+     }
+     */
     
 private:
     Node * root;
@@ -101,7 +106,7 @@ int main() {
     
     std::cout << aTree.search(10) << " " << aTree.search(25) << std::endl;
     
-    aTree.deleteTree();
+    //aTree.deleteTree();
     
     return 0;
 }
