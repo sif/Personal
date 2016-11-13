@@ -1,25 +1,15 @@
 /*
  Sifer Aseph
- Insertion Sort
- 
- Insertion sort can be O(1), O(n) or O(n^2) when properly implemented.
+ Merge Sort
  */
 
 #include <iostream>
 #include <vector>
 
-std::vector<int> insertionSort(std::vector<int> &aPie) {
-    for (int i = 0; i <= aPie.size()-1; ++i) {
-        int j = i;
-        while ((j > 0) && (aPie[j-1] > aPie[j])) {
-            int key = aPie[j];
-            aPie[j] = aPie[j-1];
-            aPie[j-1] = key;
-            j = j-1;
-        }
-    }
+std::vector<int> mergeSort(std::vector<int> &theList) {
     
-    return aPie;
+    
+    return theList;
 }
 
 int main() {
@@ -39,12 +29,14 @@ int main() {
         std::cout << tastyPie[i] << " ";
     }
     
-    std::cout << "\nInsertion sorting in progress." << std::endl;
-    insertionSort(tastyPie);
+    std::cout << "\nMerge sorting in progress." << std::endl;
+    mergeSort(tastyPie);
     
     for (int i = 0; i < tastyPie.size(); ++i) {
         std::cout << tastyPie[i] << " ";
     }
+    
+    std::cout << "\n";
     
     return 0;
 }

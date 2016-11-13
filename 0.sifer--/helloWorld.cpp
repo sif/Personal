@@ -1,6 +1,5 @@
 /*
  Sifer Aseph
- https://github.com/ryra
  Hello World on Xcode
 */
 

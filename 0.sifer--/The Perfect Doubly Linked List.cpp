@@ -1,6 +1,5 @@
 /*
  Sifer Aseph
- https://github.com/ryra
  The Perfect Doubly Linked List
 
  I was teaching someone on IRC how to write a doubly linked list after building a singly linked list. Easier than I thought.
