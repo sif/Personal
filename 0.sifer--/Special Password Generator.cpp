@@ -1,10 +1,5 @@
-//
-//  main.cpp
-//  Special Password Generator
-//
-//  Created by Sifer Aseph on 2/24/16.
-//  Copyright © 2016 Sifer Aseph. All rights reserved.
-//
+// Sifer Aseph
+// Special Password Generator
 
 /*
  I went to a cybersecurity workshop about passwords and decided to write my own password generator right there and then.
