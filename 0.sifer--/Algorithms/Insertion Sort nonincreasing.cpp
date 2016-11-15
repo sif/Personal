@@ -1,17 +1,21 @@
 /*
  Sifer Aseph
- Insertion Sort
+ Insertion Sort (nonincreasing)
  
- Insertion sort can be O(1), O(n) or O(n^2) when properly implemented.
+ Modified this for CLRS. Solution to 2.1-2.
+ 
+ Insertion sort can be O(1), O(n) or O(n^2).
  */
 
 #include <iostream>
 #include <vector>
+#include <stdlib.h>
+#include <time.h>
 
 std::vector<int> insertionSort(std::vector<int> &aPie) {
-    for (int i = 0; i <= aPie.size()-1; ++i) {
-        int j = i;
-        while ((j > 0) && (aPie[j-1] > aPie[j])) {
+    for (int i = 0; i <= aPie.size()-1; ++i) { // loop invariant
+        int j = i; // key
+        while ((j > 0) && (aPie[j-1] < aPie[j])) {
             int key = aPie[j];
             aPie[j] = aPie[j-1];
             aPie[j-1] = key;
@@ -24,16 +28,12 @@ std::vector<int> insertionSort(std::vector<int> &aPie) {
 
 int main() {
     std::vector<int> tastyPie;
-    tastyPie.push_back(59);
-    tastyPie.push_back(26);
-    tastyPie.push_back(41);
-    tastyPie.push_back(58);
-    tastyPie.push_back(0);
-    tastyPie.push_back(3);
-    tastyPie.push_back(53);
-    tastyPie.push_back(97);
-    tastyPie.push_back(93);
-    tastyPie.push_back(1);
+    srand(std::time(nullptr));
+    int aNumber = 0;
+    for (int tenNumbers = 0; tenNumbers < 10; ++tenNumbers) {
+        aNumber = rand() & 1000;
+        tastyPie.push_back(aNumber);
+    }
     
     for (int i = 0; i < tastyPie.size(); ++i) {
         std::cout << tastyPie[i] << " ";
