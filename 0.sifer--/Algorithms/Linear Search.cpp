@@ -6,13 +6,11 @@
 
 #include <iostream>
 #include <vector>
-#include <stdlib.h>
-#include <time.h>
 
 int search(int v, std::vector<int> tastyPie) {
     for (int i = 0; i < tastyPie.size(); ++i) {
         if (v == tastyPie[i]) {
-            return tastyPie[i];
+            return i;
         }
     }
     
