@@ -1,6 +1,9 @@
 /*
  Sifer Aseph
  Merge Sort
+ 
+ Best-case:
+ Worst-case:
  */
 
 #include <iostream>

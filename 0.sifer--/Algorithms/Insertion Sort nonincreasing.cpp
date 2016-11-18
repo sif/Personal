@@ -4,7 +4,9 @@
  
  Modified this for CLRS. Solution to 2.1-2.
  
- Insertion sort can be O(1), O(n) or O(n^2).
+ Best-case:
+ Worst-case:
+ O(1), O(n) or O(n^2)
  */
 
 #include <iostream>

@@ -9,6 +9,9 @@
  2. Find the second smallest element in the list then putting it into A[1].
  3. Continue until n-1 is reached.
  4. Return array.
+ 
+ Best-case: Θ(n^2)
+ Worst-case: Θ(n^2)
  */
 
 #include <iostream>

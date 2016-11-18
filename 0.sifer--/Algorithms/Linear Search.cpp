@@ -2,6 +2,9 @@
  Sifer Aseph
  Linear Search
  2.1.3
+ 
+ Best-case: Θ(n)
+ Worst-case: Θ(n)
  */
 
 #include <iostream>
