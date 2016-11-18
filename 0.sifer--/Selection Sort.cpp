@@ -18,7 +18,21 @@
 
 std::vector<int> selectionSort(std::vector<int> &theList) {
     for (int i = 0; i < theList.size(); ++i) {
+        int smallIndex = i;
+        int temp = 0;
         
+        for (int current = i + 1; current < theList.size(); ++current) {
+            if (theList[current] < theList[smallIndex]) {
+                smallIndex = current;
+            }
+        }
+        
+        // Just a practice.
+        // Next time: #include <algorithm>
+        // Use: std::swap(list[A], list[B]);
+        temp = theList[i];
+        theList[i] = theList[smallIndex];
+        theList[smallIndex] = temp;
     }
     
     return theList;
@@ -32,12 +46,20 @@ int main() {
         aNumber = rand() & 1000;
         tastyPie.push_back(aNumber);
     }
-    
+    /*
+     tastyPie.push_back(24);
+     tastyPie.push_back(17);
+     tastyPie.push_back(5);
+     tastyPie.push_back(51);
+     tastyPie.push_back(13);
+     tastyPie.push_back(1);
+     //1, 5, 13, 17, 24, 51
+     */
     for (int i = 0; i < tastyPie.size(); ++i) {
         std::cout << tastyPie[i] << " ";
     }
     
-    std::cout << "\nSelection sorting in progress." << std::endl;
+    std::cout << "\nSelect sorting in progress." << std::endl;
     selectionSort(tastyPie);
     
     for (int i = 0; i < tastyPie.size(); ++i) {
