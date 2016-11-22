@@ -4,6 +4,8 @@
  
  Best-case:
  Worst-case:
+ 
+ Using smart pointers or vectors next time.
  */
 
 #include <iostream>
@@ -74,6 +76,7 @@ void merge(int *theList, int low, int mid, int high) { // p, q, r in some litera
 }
 
 int main() {
+    
     int tastyPie[10];
     srand(std::time(nullptr));
     int aNumber = 0;
@@ -97,6 +100,3 @@ int main() {
     
     return 0;
 }
-
-// dealing with some off by one issues here :(
-// I should be using either smart pointers or vectors :(
