@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Sifer Aseph 
-# https://github.com/ryra
+# Sifer Aseph
 # Prints a "hello cruel, cruel world" statement.
 
 print "hello world"

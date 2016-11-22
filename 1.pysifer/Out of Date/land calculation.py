@@ -1,9 +1,6 @@
 #!/usr/bin/env python
-'''
-Sifer Aseph
-https://github.com/ryra
-A module to convert square feet into acre. 
-'''
+# Sifer Aseph
+# A module to convert square feet into acre. 
 
 def getSquareFeet():
     ''' This function will get the desired square feet. '''
@@ -14,7 +11,7 @@ def getSquareFeet():
 def convertToAcre(squareFeet):
     ''' This function will convert square feet to acre. '''
     acre = squareFeet / 43560.00
-    
+
     return acre
 
 def printAcre():
