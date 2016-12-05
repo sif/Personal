@@ -10,3 +10,10 @@ int main() {
 
     return 0;
 }
+
+/*
+ Quote of the Code
+ 
+ "Fifty years of programming language research, and we end up with C++???"
+ Richard A. O'Keefe
+ */
