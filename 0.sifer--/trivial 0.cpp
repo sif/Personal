@@ -125,4 +125,13 @@ void justPlayingAround() {
  
  system("pause");
  // Windows only
+ 
+ // 0x2B | ~0x2B
+ */
+
+/*
+ Quote of the Code
+ 
+ "Linux poses a real challenge for those with a taste for late-night hacking (and/or conversations with God)."
+ Matt Welsh
  */
