@@ -1,16 +1,8 @@
 ### Introduction
 ---
-Welcome to my little corner. I’ve been cleaning up since I am getting close to graduation. Graduation cleaning and all. My wiki includes more of my scribbling beside the ones on my website.
+Welcome to my little corner. 
 
-This is my itinerary:
-
-<ol>
-<li value="0">Graduate</li>
-<li>Get into more competition</li>
-<li>Figure out what to keep and what to discard</li>
-</ol>
-
-I think I will have lots of competition code up. As time goes on, I'm trying to consolidate everything.
+My wiki includes more of my scribbling beside the ones on my website.
 
 Please be nice!
 
