@@ -1,0 +1,20 @@
+''' 
+cs1114 
+
+Submission: hw## or rec##
+
+Programmer: your name
+Username: your username
+
+Purpose of program, assumptions, constraints:
+
+The program level documentation goes here
+What the program does
+Any special tricks
+Any assumtions
+Any constraints
+etc..
+
+'''
+
+
