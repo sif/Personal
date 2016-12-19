@@ -2,7 +2,7 @@
 ---
 Welcome to my little corner. 
 
-My **_Wiki_** includes more of my scribbling beside the ones on my website.
+My **_Wiki_** includes more of my scribbling.
 
 Please be nice!
 
