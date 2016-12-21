@@ -16,7 +16,3 @@ Please be nice!
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |  Start here.                                                  |
 | sifernoswifting  | Swift               |                                                               |
-
-### Contact
----
-Feel free to contact me at: sifer.aseph@nyu.edu
