@@ -16,6 +16,8 @@ int main() {
 // Use: gcc -Wall -Wextra -ansi -pedantic stuff.c
 // Fun fact: GCC used to be GNU C Compiler. It's now GNU Compiler Collection. It was created shortly after I was born.
 
+// Solution to finding the n smallest / n largest: sort the array.
+
 /*
  Quote of the Code
  

@@ -1,7 +1,7 @@
-//
-//  Shell
-//  Sifer Aseph
-//
+/*
+ Sifer Aseph
+ Shell;
+ */
 
 #include <iostream>
 #include <unistd.h>

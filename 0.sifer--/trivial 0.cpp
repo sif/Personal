@@ -5,10 +5,12 @@
 #include <stdlib.h> // for rand()
 #include <string>
 #include <fstream> // for file handling
+#include <math.h>
 
 // STL
 #include <vector>
 #include <list>
+#include <stack>
 
 int collatzConjecture(int number);
 void simpleLogicTest();
@@ -63,6 +65,23 @@ int main() {
         std::cout << "You got it" << std::endl;
     } else {
         std::cout << "Sorry, the number was: " << number << std::endl;
+    }
+    
+    //
+    std::stack<int> myStack;
+    
+    // counting words from a file stream:
+    std::string line;
+    
+    int lineCount = 0;
+    while (ifs >> line) {
+        lineCsount++;
+    }
+    
+    //
+    while (ifs) {
+        getline(ifs, line);
+        std::cout << line;
     }
     
     //
@@ -123,10 +142,18 @@ void justPlayingAround() {
  // temperature conversion
  // fahrenheit = (celsius * 9/5) + 32;
  
+ // all things math (geometry, etc.)
+ 
+ // all things random (Rock-Paper-Scissors, 3-sided coin toss, etc.)
+ 
+ // ASCII generator
+ 
  system("pause");
  // Windows only
  
  // 0x2B | ~0x2B
+ 
+ // Wastes will go to /dev/null.
  */
 
 /*
