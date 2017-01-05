@@ -1,6 +1,6 @@
 ### Introduction
 ---
-Welcome to my little corner. 
+Welcome to my corner. 
 
 My **_Wiki_** includes more of my scribbling.
 
