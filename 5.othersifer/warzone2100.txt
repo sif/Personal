@@ -1,0 +1,10 @@
+Here is a correction to http://developer.wz2100.net/wiki/GitHowto
+
+It's `git checkout -b 3.0 origin/3.0`
+Not `git checkout -b --track 3.0 origin/3.0`
+
+On a completely unrelated note.. I got "Would you like to play a game?" when I hit tab and opened `wargames` when I was really trying to open warzone2100..
+
+bash-4.1$ wargames
+Would you like to play a game? y
+Strange, the only winning move is not to play.

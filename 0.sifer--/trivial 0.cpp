@@ -154,6 +154,13 @@ void justPlayingAround() {
  // 0x2B | ~0x2B
  
  // Wastes will go to /dev/null.
+ 
+ // Aleph-null bottles of beer on the wall,
+ // Aleph-null bottles of beer,
+ // You take one down, and pass it around,
+ // Aleph-null bottles of beer on the wall.
+ 
+ // I changed the lyric because my code counted down to zero, which somebody suggested that it's funny that I could tear down the wall. I fixed my code though.
  */
 
 /*
