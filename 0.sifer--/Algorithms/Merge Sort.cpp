@@ -76,7 +76,6 @@ void merge(int *theList, int low, int mid, int high) { // p, q, r in some litera
 }
 
 int main() {
-    
     int tastyPie[10];
     srand(std::time(nullptr));
     int aNumber = 0;
