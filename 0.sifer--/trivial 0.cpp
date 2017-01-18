@@ -161,11 +161,6 @@ void justPlayingAround() {
  // Aleph-null bottles of beer on the wall.
  
  // I changed the lyric because my code counted down to zero, which somebody suggested that it's funny that I could tear down the wall. I fixed my code though.
- */
-
-/*
- Quote of the Code
  
- "Linux poses a real challenge for those with a taste for late-night hacking (and/or conversations with God)."
- Matt Welsh
+ // 
  */

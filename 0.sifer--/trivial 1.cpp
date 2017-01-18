@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-
+void infiniteLoop();
 
 int main() {
     
@@ -11,15 +11,21 @@ int main() {
     return 0;
 }
 
+void infiniteLoop() {
+    for (;;);
+}
+
 // Apparently this kind of commenting does not exist in C89. Had to fix that on all of my old code.
 // cc1 is GCC's C compiler.
 // Use: gcc -Wall -Wextra -ansi -pedantic stuff.c
 // Fun fact: GCC used to be GNU C Compiler. It's now GNU Compiler Collection. It was created shortly after I was born.
 
+// shallow copy vs deep copy
+
 // Solution to finding the n smallest / n largest: sort the array.
 
 /*
- Quote of the Code
+ Quote of the Moment
  
  "I bought Gradshteyn & Ryzhik because I had to write an answer to some homework problem in some physics class that I took. The problem had contorted itself into a perverse elliptic integral and its recovery was beyond my means, so I went to the bookstore, looked for something fat and Soviet, and found this gem. I forked over the cash for it, figuring that it was a long-term investment.
  
