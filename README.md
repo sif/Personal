@@ -15,4 +15,4 @@ Please be nice!
 | pysifer          | Python              |                                                               |
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |  Start here.                                                  |
-| sifernoswifting  | Swift               |                                                               |
+| secsif           | Security            |                                                               |
