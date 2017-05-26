@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DeMorgan's Law</title>
+<style type="text/css">
+<!--
+.style1 {font-family: "Courier New", Courier, monospace}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif}
+-->
+</style>
+</head>
+
+<body>
+<p><u>DeMorgan's Law</u> </p>
+<p>Say it aloud, loudly!<br />
+  Impress your friends!<br />
+  Impress you parents with something that let's them know you are really learning stuff at the University Level!<br />
+  </p>
+<p>DeMorgan's Law:<br />
+&nbsp;&nbsp;&nbsp;&quot;<font face="Arial, Helvetica, sans-serif" size="-1"><bold>the negation of a conjunction is the disjunction of the negation of the terms</bold></font>&quot;</p>
+<p>Yes!</p>
+<p>A conjunction (an <span class="style1">and</span> expression in python) :<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style1"> &nbsp;&nbsp;&nbsp;( term1 and term2 )</span> <br />
+The negation of a conjunction:<br />
+ <span class="style1">&nbsp;&nbsp;not ( term1 and term2 )</span> <br />
+The disjunction (an <span class="style1">or</span> expression in python) of the negation (<span class="style1">not</span>-ing in python) of the terms:<br />
+<span class="style1">&nbsp;( not term1 ) or ( not term2 )</span> <br />
+DeMorgan's Law (from boolean algebra)
+<br />
+</p>
+<hr />
+<p><u>In range</u>:<br />
+  <span class="style1">LO &lt;= n &lt;= HI</span> (in python)<br />
+In languages that do not have the chained relational ops (and this can be written in python also) :<br />
+<span class="style1">(LO &lt;= n) and (n &lt;= HI)</span>   <br />
+</p>
+<p><u>Not in range</u>:<br />
+  take the expression for in range and <span class="style1">not</span> it:<br />
+  <span class="style1">not( (LO &lt;= n) and (n &lt;= HI) )</span> - note the parentheses<br /> 
+    and apply DeMorgan's Law:
+      <br />
+      <span class="style1">(not (LO &lt;= n)) or ( not (n &lt;= HI))</span><br />
+  But this is silly!<br />
+  <span class="style1">(n &lt; LO) or (n &gt; HI)</span> - note the &lt; instead of &lt;=)<br />
+And now it &quot;reads&quot; more like what you really mean in &quot;not in range&quot;.</p>
+<p>And can it just be:<br />
+  <span class="style1">(n &lt; LO) or (n &gt; HI)</span> ?<br />
+  If you can't remember the precedence of <span class="style1">&lt;</span>, <span class="style1">or</span>, and <span class="style1">&gt;</span>,<br />
+&nbsp;&nbsp;&nbsp;  then use parentheses<br />
+&nbsp;&nbsp;&nbsp; (recall that parentheses are not operators, they are punctuators).<br />
+  <br />
+  <br />
+  <br />
+</p>
+</body>
+</html>
