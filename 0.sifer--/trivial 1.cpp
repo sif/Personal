@@ -23,3 +23,6 @@ void infiniteLoop() {
 // shallow copy vs deep copy
 
 // Solution to finding the n smallest / n largest: sort the array.
+
+// Fast inverse square root
+// i  = 0x5f3759df - ( i >> 1 );
