@@ -1,7 +1,7 @@
 /*
  Sifer Aseph
  TopCoder: ImageCompression
- SRM
+ SRM 715
  */
 
 #include <iostream>
