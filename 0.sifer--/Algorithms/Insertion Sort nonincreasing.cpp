@@ -4,9 +4,8 @@
  
  Modified this for CLRS. Solution to 2.1-2.
  
- Best-case:
- Worst-case:
- O(1), O(n) or O(n^2)
+ Best-case: O(n) comparisons, O(1) swaps
+ Worst-case: O(n^2) comparisons and swaps
  */
 
 #include <iostream>

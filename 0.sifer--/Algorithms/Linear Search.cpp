@@ -4,7 +4,7 @@
  2.1.3
  
  Best-case: Θ(n)
- Worst-case: Θ(n)
+ Worst-case: O(n)
  */
 
 #include <iostream>

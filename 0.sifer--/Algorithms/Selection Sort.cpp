@@ -11,7 +11,7 @@
  4. Return array.
  
  Best-case: Θ(n^2)
- Worst-case: Θ(n^2)
+ Worst-case: O(n^2)
  */
 
 #include <iostream>

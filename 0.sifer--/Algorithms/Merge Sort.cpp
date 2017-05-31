@@ -2,8 +2,8 @@
  Sifer Aseph
  Merge Sort
  
- Best-case:
- Worst-case:
+ Best-case: O(n log n)
+ Worst-case: O(n log n)
  
  Using smart pointers or vectors next time.
  */
