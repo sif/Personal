@@ -1,7 +1,7 @@
-// Sifer Aseph
-// Special Password Generator
-
 /*
+ Sifer Aseph
+ Special Password Generator
+ 
  I went to a cybersecurity workshop about passwords and decided to write my own password generator right there and then.
  There are only two things left to do but I'll do them when I get the time.
  Lots of room for improvement later on but I think this is very good.
