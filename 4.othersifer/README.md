@@ -11,5 +11,7 @@ CS4753
 
 
 **Notable**
-http://io9.gizmodo.com/what-if-natural-products-came-with-a-list-of-ingredient-1503320184
-http://www.dailymail.co.uk/news/article-1267953/Job-seeker-Vicky-Harrison-commits-suicide-rejected-200-jobs.html
+* http://io9.gizmodo.com/what-if-natural-products-came-with-a-list-of-ingredient-1503320184
+* http://www.dailymail.co.uk/news/article-1267953/Job-seeker-Vicky-Harrison-commits-suicide-rejected-200-jobs.html
+* https://www.eff.org/deeplinks/2009/04/boston-college-prompt-commands-are-suspicious
+* https://www.usatoday.com/story/news/2016/05/07/professors-airplane-math-leads-flight-delay/84084914/
