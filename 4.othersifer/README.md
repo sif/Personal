@@ -6,6 +6,9 @@
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 
+**Special**
+* https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
+
 **Just in case**
 * https://www.grsecurity.net
 * http://crackmes.de
