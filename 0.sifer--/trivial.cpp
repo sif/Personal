@@ -2,9 +2,7 @@
 //  Trivial on Xcode
 
 #include <iostream>
-#include <stdlib.h> // for rand()
 #include <string>
-#include <fstream> // for file handling
 #include <math.h>
 
 // STL
@@ -15,7 +13,6 @@
 int collatzConjecture(int number);
 void simpleLogicTest();
 void simpleArrayTest1();
-void justPlayingAround();
 
 int main() {
     // arithmetic operators
@@ -28,63 +25,11 @@ int main() {
         std::cout << ar[k] << std::endl;
     }
     
-    // simple even / odd number test
-    std::cout << "Enter a number to test: ";
-    int test = 0;
-    std::cin >> test;
-    
-    if (test % 2 == 0) {
-        std::cout << "This is an even number." << std::endl;
-        
-    } else {
-        std::cout << "This is an odd number." << std::endl;
-    }
-    
-    //
-    int number = rand()%100;
-    int guess = -1;
-    int tryCount = 0;
-    
-    while (guess != number && tryCount < 8) {
-        std::cout << number << std::endl;
-        std::cout << "Please enter a guess: " << std::endl;
-        std::cin >> guess;
-        
-        if (guess < number) {
-            std::cout << "Too low" << std::endl;
-        }
-        
-        if (guess > number) {
-            std::cout << "Too high" << std::endl;
-        }
-        
-        tryCount++;
-    }
-    
-    if (guess == number) {
-        std::cout << "You got it" << std::endl;
-    } else {
-        std::cout << "Sorry, the number was: " << number << std::endl;
-    }
-    
     //
     std::stack<int> myStack;
     
-    // counting words from a file stream:
-    std::string line;
-    
-    int lineCount = 0;
-    while (ifs >> line) {
-        lineCsount++;
-    }
-    
     //
-    while (ifs) {
-        getline(ifs, line);
-        std::cout << line;
-    }
     
-    //
     
     return 0;
 }
@@ -125,19 +70,6 @@ void simpleArrayTest1() {
     }
 }
 
-void justPlayingAround() {
-    int mul = 0;
-    
-    while (mul < 30) {
-        // Comment out one line at a time to decrement in times table.
-        mul += 3; // 3 times table
-        mul += 3; // 6 times table
-        mul += 3; // 9 times table
-        mul += 3; // 12 times table
-        std::cout << mul << std::endl;
-    }
-}
-
 /* Everything else:
  // temperature conversion
  // fahrenheit = (celsius * 9/5) + 32;
@@ -164,3 +96,15 @@ void justPlayingAround() {
  
  // 
  */
+
+// Apparently this kind of commenting does not exist in C89. Had to fix that on all of my old code.
+// cc1 is GCC's C compiler.
+// Use: gcc -Wall -Wextra -ansi -pedantic stuff.c
+// Fun fact: GCC used to be GNU C Compiler. It's now GNU Compiler Collection. It was created shortly after I was born.
+
+// shallow copy vs deep copy
+
+// Solution to finding the n smallest / n largest: sort the array.
+
+// Fast inverse square root
+// i  = 0x5f3759df - ( i >> 1 );

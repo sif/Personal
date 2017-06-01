@@ -5,6 +5,14 @@
 
 #include <iostream>
 
+int recursiveFibonacci(int number);
+
+int main(){
+    std::cout << recursiveFibonacci(15) << std::endl;
+  
+    return 0;
+}
+
 int recursiveFibonacci(int number) {
     // base case #1
     if (number == 0) {
@@ -17,10 +25,4 @@ int recursiveFibonacci(int number) {
     }
     
     return recursiveFibonacci(number-1) + recursiveFibonacci(number-2);
-}
-
-int main(){
-    std::cout << recursiveFibonacci(15) << std::endl;
-  
-    return 0;
 }

@@ -21,6 +21,7 @@ int decimalToBinary(int decimalNumber) {
 }
 
 int main() {
+    std::cout << decimalToBinary(10) << std::endl;
     
     return 0;
 }
