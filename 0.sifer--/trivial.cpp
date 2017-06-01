@@ -10,7 +10,6 @@
 #include <list>
 #include <stack>
 
-int collatzConjecture(int number);
 void simpleLogicTest();
 void simpleArrayTest1();
 
@@ -32,20 +31,6 @@ int main() {
     
     
     return 0;
-}
-
-int collatzConjecture(int number) { // undecidable algorithm
-    if (number == 1) {
-        return 0;
-    }
-    
-    if (number % 2 == 0) { // even
-        return number / 2;
-    }
-    
-    if (number % 2 != 0) { // odd
-        return 3 * number + 1;
-    }
 }
 
 void simpleLogicTest() {
@@ -108,3 +93,5 @@ void simpleArrayTest1() {
 
 // Fast inverse square root
 // i  = 0x5f3759df - ( i >> 1 );
+
+// 2038 is going to be a special year.
