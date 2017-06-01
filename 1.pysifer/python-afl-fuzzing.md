@@ -1,0 +1,18 @@
+This is how I ran the script. On macOS, do the following:
+* brew install afl-fuzz
+* brew install virtualenv
+* sudo pip install python-afl
+* SL=/System/Library; PL=com.apple.ReportCrash
+* launchctl unload -w ${SL}/LaunchAgents/${PL}.plist
+* sudo launchctl unload -w ${SL}/LaunchDaemons/${PL}.Root.plist
+
+In order to use it (in my case):
+
+    py-afl-fuzz -o ~/Desktop/results/ -i ~/Desktop/examples/ -- /usr/bin/python ~/Desktop/mylittleaflfuzzer.py
+
+Make sure your terminal is 80x25 or bigger. To quit, hit control-c.
+
+After you're done with everything:
+* SL=/System/Library; PL=com.apple.ReportCrash
+* launchctl load -w ${SL}/LaunchAgents/${PL}.plist
+* sudo launchctl load -w ${SL}/LaunchDaemons/${PL}.Root.plist
