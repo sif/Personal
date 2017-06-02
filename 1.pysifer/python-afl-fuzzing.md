@@ -1,3 +1,5 @@
+Source: https://alexgaynor.net/2015/apr/13/introduction-to-fuzzing-in-python-with-afl/
+
 This is how I ran the script. On macOS, do the following:
 * brew install afl-fuzz
 * brew install virtualenv
@@ -16,3 +18,7 @@ After you're done with everything:
 * SL=/System/Library; PL=com.apple.ReportCrash
 * launchctl load -w ${SL}/LaunchAgents/${PL}.plist
 * sudo launchctl load -w ${SL}/LaunchDaemons/${PL}.Root.plist
+
+Reference:
+* https://cryptography.io/en/latest/_modules/cryptography/hazmat/primitives/asymmetric/utils/
+* http://lcamtuf.coredump.cx/afl/status_screen.txt (included)

@@ -5,12 +5,9 @@
 #include <string>
 #include <math.h>
 
-// STL
 #include <vector>
 #include <list>
-#include <stack>
 
-void simpleLogicTest();
 void simpleArrayTest1();
 
 int main() {
@@ -25,21 +22,9 @@ int main() {
     }
     
     //
-    std::stack<int> myStack;
-    
-    //
     
     
     return 0;
-}
-
-void simpleLogicTest() {
-    int x = 4;
-    int y = 9;
-    
-    if (x > 0 && y != 2) std::cout << "yes" << std::endl; else std::cout << "no" << std::endl;
-    if (x < 0 || y != 2) std::cout << "yes" << std::endl; else std::cout << "no" << std::endl;
-    if (!(y < 10)) std::cout << "yes" << std::endl; else std::cout <<"no" << std::endl;
 }
 
 void simpleArrayTest1() {
@@ -55,10 +40,7 @@ void simpleArrayTest1() {
     }
 }
 
-/* Everything else:
- // temperature conversion
- // fahrenheit = (celsius * 9/5) + 32;
- 
+/*
  // all things math (geometry, etc.)
  
  // all things random (Rock-Paper-Scissors, 3-sided coin toss, etc.)

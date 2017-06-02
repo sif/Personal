@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Sifer Aseph
 # My Little AFL Fuzzer
 
