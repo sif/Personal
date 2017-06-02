@@ -13,3 +13,6 @@
 * https://www.grsecurity.net
 * http://crackmes.de
 * https://cryptopals.com
+
+**Just in case miscellaneous**
+* http://thebaron.comicgenesis.com
