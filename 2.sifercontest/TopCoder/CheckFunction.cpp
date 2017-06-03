@@ -42,7 +42,7 @@ public:
     int newFunction(std::string code) {
         std::vector<int> addMe;
         for (int i = 0; i < code.length(); ++i) {
-            addMe.push_back(convertMe((code[i] - '0')));
+            addMe.push_back(convertMe((code[i] - '0'))); // http://www.asciitable.com
         }
         
         int sumMe = 0;
