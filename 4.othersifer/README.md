@@ -17,4 +17,6 @@
 **Just in case miscellaneous**
 * http://thebaron.comicgenesis.com
 * http://codecrap.com
+* http://www.commitlogsfromlastnight.com
+* http://whatthecommit.com
 * Really? http://search.cpan.org/dist/common-sense/sense.pm.PL http://search.cpan.org/dist/common-sense/sense.pm.PL#WHAT_OTHER_PEOPLE_HAD_TO_SAY_ABOUT_THIS_MODULE
