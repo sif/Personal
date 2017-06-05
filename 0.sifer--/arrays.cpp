@@ -7,6 +7,7 @@
 
 void simpleArrayTest1();
 void simpleArrayTest2();
+void simpleArrayTest3();
 
 int main() {
     
@@ -32,5 +33,13 @@ void simpleArrayTest2() {
     for (int k = 3; k <= 7; ++k) {
         ar[k] = 3 * k + 4;
         std::cout << ar[k] << std::endl;
+    }
+}
+
+void simpleArrayTest3() {
+    int ar[2][2] = { {1,2}, {3,4} };
+    
+    for (auto [first, second] : ar) {
+        std::cout << first << second << " ";
     }
 }
