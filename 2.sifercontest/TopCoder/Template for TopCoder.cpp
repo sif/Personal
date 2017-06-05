@@ -5,6 +5,11 @@
  */
 
 #include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <cmath>
+#include <ctime>
 
 class SomeClass {
 public:

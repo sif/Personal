@@ -11,8 +11,6 @@ int main() {
 }
 
 /*
- // all things math (geometry, etc.)
- 
  // all things random (Rock-Paper-Scissors, 3-sided coin toss, etc.)
  
  // ASCII generator
