@@ -40,7 +40,6 @@ public:
     }
     
 private:
-    std::vector<int> sorted;
     int totalCost = 0;
 };
 

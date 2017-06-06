@@ -13,14 +13,16 @@
 
 class SomeClass {
 public:
-    void someMethod() {
+    int someMethod() {
         
+        
+        return -1;
     }
 };
 
 int main() {
     SomeClass test;
-    test.someMethod();
+    std:: cout << test.someMethod() << std::endl;
     
     return 0;
 }
