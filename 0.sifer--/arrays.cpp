@@ -36,7 +36,7 @@ void simpleArrayTest2() {
     }
 }
 
-void simpleArrayTest3() {
+void simpleArrayTest3() { // C++17
     int ar[2][2] = { {1,2}, {3,4} };
     
     for (auto [first, second] : ar) {
