@@ -1,3 +1,7 @@
+**Keywords**
+* pareto principle
+* balkanization of internet
+
 **Notable**
 * http://otherwords.org/dark-side-internships/
 * http://solutionowl.com/background-app-refresh-explained-in-laymans-terms/
@@ -8,6 +12,7 @@
 * http://www.salon.com/2015/06/28/college_is_a_con_the_savage_truth_about_your_bachelors_degree_partner/
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * http://www.scottaaronson.com/blog/?p=152
+* http://www.buildyourownlinux.com/
 
 **Life Extension/Immortality** 
 * Me! https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
@@ -16,6 +21,7 @@
 **Security**
 * https://www.grsecurity.net
 * http://crackmes.de
+* https://www.mlsecproject.org
 * http://metal.fortiguard.com/tests/
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 
@@ -33,3 +39,4 @@
 * Really? http://search.cpan.org/dist/common-sense/sense.pm.PL http://search.cpan.org/dist/common-sense/sense.pm.PL#WHAT_OTHER_PEOPLE_HAD_TO_SAY_ABOUT_THIS_MODULE
 * http://thebaron.comicgenesis.com
 * https://conspiracyaccountabilityleague.blogspot.ca/2012/08/conspiracy-of-day-task-force-aurora.html
+* http://ladyfashionwallets.com
