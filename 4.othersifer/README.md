@@ -9,11 +9,11 @@
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * http://www.scottaaronson.com/blog/?p=152
 
-**Special** 
+**Me** 
 * https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
 * https://www.quora.com/Most-of-us-will-be-forgotten-within-two-generations-Does-this-bother-you-at-all-or-not-in-the-slightest
 
-**Just in case**
+**Extras**
 * https://www.grsecurity.net
 * http://crackmes.de
 * https://www.hackthissite.org
@@ -23,7 +23,7 @@
 * http://metal.fortiguard.com/tests/
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 
-**Just in case miscellaneous** 
+**Entertainment** 
 * http://math.ucr.edu/home/baez/crackpot.html
 * http://thebaron.comicgenesis.com
 * http://codecrap.com
