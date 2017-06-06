@@ -2,6 +2,7 @@
 * pareto principle
 * balkanization of internet
 * vbox command+tab issue
+* barnum effect
 
 **Notable**
 * http://otherwords.org/dark-side-internships/
@@ -42,6 +43,7 @@
 * http://whatthecommit.com
 * https://rasterbator.net
 * Really? http://search.cpan.org/dist/common-sense/sense.pm.PL http://search.cpan.org/dist/common-sense/sense.pm.PL#WHAT_OTHER_PEOPLE_HAD_TO_SAY_ABOUT_THIS_MODULE
+* http://motd.ambians.com/quotes.php/name/freebsd_fortunes/toc_id/1-0-2/s/6
 * http://thebaron.comicgenesis.com
 * https://conspiracyaccountabilityleague.blogspot.ca/2012/08/conspiracy-of-day-task-force-aurora.html
 * http://ladyfashionwallets.com
