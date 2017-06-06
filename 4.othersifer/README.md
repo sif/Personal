@@ -30,6 +30,7 @@
 * https://microcorruption.com/
 * http://overthewire.org/wargames/
 * https://cryptopals.com
+* https://algo.is/solved-problems/
 
 **Entertainment** 
 * http://math.ucr.edu/home/baez/crackpot.html
