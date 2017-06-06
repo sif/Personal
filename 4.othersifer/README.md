@@ -26,6 +26,7 @@
 * http://metal.fortiguard.com/tests/
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 * http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
+* http://attrition.org/errata/legal_threats/
 
 **Competition/Contest**
 * https://www.hackthissite.org
