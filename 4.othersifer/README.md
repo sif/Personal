@@ -9,7 +9,7 @@
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * http://www.scottaaronson.com/blog/?p=152
 
-**Life** 
+**Life Extension/Immortality** 
 * Me! https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
 * https://www.quora.com/Most-of-us-will-be-forgotten-within-two-generations-Does-this-bother-you-at-all-or-not-in-the-slightest
 
