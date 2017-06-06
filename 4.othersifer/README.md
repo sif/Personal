@@ -24,6 +24,7 @@
 * https://www.mlsecproject.org
 * http://metal.fortiguard.com/tests/
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
+* http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
 
 **Competition/Contest**
 * https://www.hackthissite.org
