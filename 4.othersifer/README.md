@@ -1,6 +1,7 @@
 **Keywords**
 * pareto principle
 * balkanization of internet
+* vbox command+tab issue
 
 **Notable**
 * http://otherwords.org/dark-side-internships/
