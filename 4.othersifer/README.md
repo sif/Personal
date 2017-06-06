@@ -30,3 +30,4 @@
 * http://www.commitlogsfromlastnight.com
 * http://whatthecommit.com
 * Really? http://search.cpan.org/dist/common-sense/sense.pm.PL http://search.cpan.org/dist/common-sense/sense.pm.PL#WHAT_OTHER_PEOPLE_HAD_TO_SAY_ABOUT_THIS_MODULE
+* https://conspiracyaccountabilityleague.blogspot.ca/2012/08/conspiracy-of-day-task-force-aurora.html
