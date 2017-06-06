@@ -16,16 +16,18 @@
 **Extras**
 * https://www.grsecurity.net
 * http://crackmes.de
+* http://metal.fortiguard.com/tests/
+* http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
+
+**Competition/Contest**
 * https://www.hackthissite.org
 * https://microcorruption.com/
 * http://overthewire.org/wargames/
 * https://cryptopals.com
-* http://metal.fortiguard.com/tests/
-* http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 
 **Entertainment** 
-* http://math.ucr.edu/home/baez/crackpot.html
 * http://thebaron.comicgenesis.com
+* http://math.ucr.edu/home/baez/crackpot.html
 * http://codecrap.com
 * http://www.commitlogsfromlastnight.com
 * http://whatthecommit.com
