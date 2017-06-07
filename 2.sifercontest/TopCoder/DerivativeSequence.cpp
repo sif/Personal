@@ -23,7 +23,7 @@ public:
             }
             
             a.clear();
-            a = nextIteration;
+            a = nextIteration; 
         }
         
         return a;

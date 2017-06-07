@@ -21,7 +21,7 @@ public:
             combined += line[i];
         }
         
-        for (int j = line.size(); j >= mid; --j) {
+        for (int j = line.size(); j >= mid; --j) { // right
             combined += line[j];
         }
         
