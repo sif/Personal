@@ -1,7 +1,7 @@
 /*
  Sifer Aseph
- TopCoder: AccountBalance
- https://community.topcoder.com/stat?c=problem_statement&pm=6036
+ TopCoder: ArrayHash
+ https://community.topcoder.com/stat?c=problem_statement&pm=4503
  */
 
 #include <iostream>
