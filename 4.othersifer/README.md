@@ -35,6 +35,9 @@
 * http://overthewire.org/wargames/
 * https://cryptopals.com
 * https://algo.is/solved-problems/
+* https://www.stockfighter.io
+* https://www.starfighters.io
+* http://nyhackathons.com
 
 **Entertainment** 
 * http://math.ucr.edu/home/baez/crackpot.html
