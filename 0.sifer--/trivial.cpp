@@ -27,6 +27,6 @@ int main() {
 
 // Fast inverse square root
 // i  = 0x5f3759df - ( i >> 1 );
-
-// 2038 is going to be a special year.
+ 
+// 2038
 */
