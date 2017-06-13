@@ -7,7 +7,7 @@ My **_Wiki_** includes more of my scribbling.
 Please be nice!
 
 ### Table of Content
----
+
 | Branch Name      | Read As             | Description                                                   |
 |:----------------:|:-------------------:|---------------------------------------------------------------|
 | ferfer           | Web                 |  Web related stuff.                                           |
@@ -16,5 +16,3 @@ Please be nice!
 | sifer--          | C++                 |                                                               |
 | sifercontest     | My competition code |  Start here.                                                  |
 | secsif           | Security            |                                                               |
-
-test
