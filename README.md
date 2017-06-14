@@ -1,10 +1,12 @@
 ### Introduction
----
-Welcome to my corner. 
+
+1. For my rambling, it's on the front page.
+2. My Wiki covers (scribbling)[https://github.com/Surufel/Personal/wiki]. 
+
 
 My **_Wiki_** includes more of my scribbling.
 
-Please be nice!
+
 
 ### Table of Content
 
