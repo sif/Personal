@@ -1,4 +1,4 @@
-### Site Map
+### Project Map
 
 | Location         | Description          |
 |:----------------:|:--------------------:|
