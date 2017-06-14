@@ -1,20 +1,22 @@
 ### Introduction
 
 1. For my rambling, it's on the front page.
-2. My Wiki covers (scribbling)[https://github.com/Surufel/Personal/wiki]. 
+2. My Wiki for this repo covers scribbling.
+3. 
 
+### TODO
 
-My **_Wiki_** includes more of my scribbling.
+1. ToC for each of the Wiki page
+2. 
 
+### Site Map
 
-
-### Table of Content
-
-| Branch Name      | Read As             | Description                                                   |
-|:----------------:|:-------------------:|---------------------------------------------------------------|
-| ferfer           | Web                 |  Web related stuff.                                           |
-| othersifer       | Miscellaneous       |  Everything else.                                             |
-| pysifer          | Python              |                                                               |
-| sifer--          | C++                 |                                                               |
-| sifercontest     | My competition code |  Start here.                                                  |
-| secsif           | Security            |                                                               |
+| Location         | Topic Description   |
+|:----------------:|:-------------------:|
+| Front page       | Start here          |
+| ferfer           | Web                 |
+| othersifer       | Miscellaneous       |
+| pysifer          | Python              |
+| sifer--          | C++                 |
+| sifercontest     | My competition code |
+| secsif           | Security            |
