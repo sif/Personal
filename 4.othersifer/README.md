@@ -15,6 +15,7 @@
 * http://www.nakedcapitalism.com/2015/05/the-art-of-the-gouge-nyu-as-a-model-for-predatory-higher-education.html
 * http://www.scottaaronson.com/blog/?p=152
 * http://www.buildyourownlinux.com/
+* https://tldrlegal.com 
 
 **Life Extension/Immortality** 
 * Me! https://www.engadget.com/2007/11/14/breakfast-topic-where-everybody-knows-your-name/
@@ -23,6 +24,7 @@
 **Security**
 * https://www.grsecurity.net
 * http://crackmes.de
+* http://www.daqwest.com
 * https://www.mlsecproject.org
 * http://metal.fortiguard.com/tests/
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
