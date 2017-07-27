@@ -30,6 +30,8 @@
 * http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/
 * http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
 * http://attrition.org/errata/legal_threats/
+* https://www.yubico.com/
+* https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots
 
 **Competition/Contest**
 * https://www.hackthissite.org
