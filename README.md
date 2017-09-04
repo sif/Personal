@@ -8,5 +8,3 @@
 | [secsif](https://github.com/Surufel/Personal/tree/master/5.secsif)               | Security             |
 | [ferfer](https://github.com/Surufel/Personal/tree/master/3.ferfer)               | Web                  |
 | [othersifer](https://github.com/Surufel/Personal/tree/master/4.othersifer)       | Miscellaneous        |
-
-[Home](http://www.siferaseph.com)
