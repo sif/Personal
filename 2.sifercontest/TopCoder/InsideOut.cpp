@@ -40,3 +40,12 @@ int main() {
     
     return 0;
 }
+
+/*
+ Your printer has been infected by a virus and is printing gibberish. After staring at several printed pages for a while, you realize that it is printing every line inside-out. In other words, the left half of each line is being printed starting in the middle of the page and proceeding out toward the left margin. Similarly, the right half of each line is being printed starting at the right margin and proceeding in toward the middle of the page. For example, the line
+ 
+ THIS LINE IS GIBBERISH
+ is being printed as
+ I ENIL SIHTHSIREBBIG S
+ Your task is to unscramble a String line from its printed form back into its original order. You can assume that line contains an even number of characters.
+ */

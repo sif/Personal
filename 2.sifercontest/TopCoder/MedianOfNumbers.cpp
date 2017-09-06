@@ -56,3 +56,9 @@ int main() {
     
     return 0;
 }
+
+/*
+ In a set of distinct numbers, the median is an element M such that the number of elements greater than M is equal to the number of elements smaller than M. For example, in a set {1, 4, 2, 5, 7} the median is 4 because two elements (5 and 7) are greater than 4 and 2 elements (1 and 2) smaller than 4. The set {1, 5, 8, 3} has no median because no element from it satisfies the definition above.
+ 
+ You are given a int[] numbers. Return the median of numbers or -1 if numbers has no median.
+ */

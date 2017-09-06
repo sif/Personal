@@ -36,3 +36,11 @@ int main() {
     
     return 0;
 }
+
+/*
+ In most programming languages variable names cannot contain spaces. If we want a variable name that consists of two or more words, we have to encode the spaces somehow. In this problem, we will look at two ways of doing so: Snake Case and Camel Case. When using Snake Case, we just replace each space by an underscore ('_'). When using Camel Case, we capitalize the first letter of each word except for the first one, and then we remove all spaces.
+
+ For example, suppose that we want to declare a variable called "good morning world" (quotes for clarity). In Snake Case, we would write this variable as "good_morning_world", while in Camel Case it would be "goodMorningWorld".
+ 
+ You are given a String variableName. This String contains a valid variable name written in Snake Case. Return the same variable name in Camel Case.
+ */

@@ -38,3 +38,9 @@ int main() {
 
     return 0;
 }
+
+/*
+ Kitayuta Mart is the largest supermarket in Shuseki Kingdom, offering a great variety of food and household products. The main products are fruits, especially apples. The price system is a little special: the original price of an apple is K yen (the currency of the kingdom). However, if a customer wants to buy more than one apple, the second apple will cost 2*K yen, the third apple will cost 22*K yen, and so on. In general, if a customer is buying n apples, the actual price of the i-th (1 <= i <= n) apple will be 2i-1*K yen.
+ 
+ Lun the dog loves apples. She has just bought some number of apples at Kitayuta Mart. The prices of those apples were calculated using the above formula. The total she paid for her apples was T yen. You are given two ints: K and T. Find and return the number of the apples that Lun has bought. It is guaranteed that K and T are such that the answer exists and is unique.
+ */
