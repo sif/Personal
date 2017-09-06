@@ -87,3 +87,9 @@ int main () {
     
     return 0;
 }
+
+/*
+ You have been given a secret mission where you must break the enemy's code. You have already figured out that they encode messages using the following method. Each letter between 'a' and 'z', inclusive, is assigned a distinct two-digit number between 01 and 26, inclusive. A message is encoded by simply replacing each letter with its assigned number. For example, if 't' is assigned 20, 'e' is assigned 05 and 's' is assigned 19, then the message "test" is encoded as "20051920". All original messages contain only lowercase letters.
+ 
+ You are given a String code containing the assignment of numbers to letters. The first letter of code is assigned 01, the second is assigned 02 and so on. You are also given a String message which is either an original unencoded message or an encoded message. If you are given an unencoded message, return the encoded version of that message, and if you are given an encoded message, return the original unencoded message.
+ */

@@ -30,3 +30,11 @@ int main() {
     
     return 0;
 }
+
+/*
+ Little Josh has found several sticks that are each 1 inch long. He wants to form a rectangle with the biggest possible area, using these sticks as the perimeter. He is allowed to glue sticks together, but he is not allowed to break a single stick into multiple shorter sticks.
+ 
+ For example, if Josh has 11 sticks, he can create a 2 x 3 rectangle using 10 sticks. This rectangle has an area of 6 square inches, which is the biggest area that can be achieved in this case.
+ 
+ You will be given an int N, and you must return the maximal area (in square inches) of a rectangle that can be created using N or less sticks.
+ */
