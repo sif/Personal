@@ -56,3 +56,7 @@ int main () {
     
     return 0;
 }
+
+/*
+ John and Brus believe that the digits 4 and 7 are lucky and all others are not. According to them, an almost lucky number is a number that contains at most one non-lucky digit in its decimal representation. Return the total number of almost lucky numbers between a and b, inclusive.
+ */

@@ -52,3 +52,11 @@ int main() {
     
     return 0;
 }
+
+/*
+ There is nothing more beautiful than just an integer number.
+ 
+ The beauty of an integer is the number of distinct digits it contains in decimal notation.
+ 
+ You are given an integer number n. Return the beauty of this number.
+ */

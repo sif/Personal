@@ -86,3 +86,12 @@ int main() {
     
     return 0;
 }
+
+/*
+ A simple calculator accepts the following kinds of strings as input:
+ 1) NUM+NUM
+ 2) NUM-NUM
+ 3) NUM*NUM
+ 4) NUM/NUM
+ where NUM is a positive integer, between 1 and 10000 inclusive that can contain leading zeros. Return the value produced by the given expression. Here +,-,*, and / denote addition, subtraction, multiplication and division respectively. All operations are done on integers, so "5/3" returns 1.
+ */
