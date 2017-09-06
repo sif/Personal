@@ -3,6 +3,20 @@
 
 #include <iostream>
 
+/*
+ preprocessor directives
+ #ifndef #define #endif
+ 
+ iostream; cin, cout
+ 
+ virtual functions facilitate polymorphism
+ 
+ Exception can throw all except incomplete types.
+ 
+ 
+ 
+ */
+
 int main() {
     // convert int to string
     // convert string to int

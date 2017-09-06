@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- palindrome
+ Palindrome
  */
 
 #include <iostream>

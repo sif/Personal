@@ -1,6 +1,6 @@
 /*
  Sifer Aseph
- arrays
+ Arrays
  */
 
 #include <iostream>
@@ -10,6 +10,7 @@ void simpleArrayTest2();
 void simpleArrayTest3();
 
 int main() {
+    int stuff[3] = {0,1,2};
     
     return 0;
 }
