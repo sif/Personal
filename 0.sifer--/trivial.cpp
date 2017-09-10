@@ -12,6 +12,11 @@
  virtual functions facilitate polymorphism
  
  Exception can throw all except incomplete types.
+ https://stackoverflow.com/questions/17785918/which-data-type-cannot-be-thrown-as-exception-in-a-c-program
+ 
+ inline to make function faster but overusing it can make it slower, be careful; I was asked this and only given a multiple choice but the actual answer is - let compiler decide
+ 
+ c_str()
  
  
  
