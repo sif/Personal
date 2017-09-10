@@ -9,4 +9,4 @@
 | [ferfer](https://github.com/Surufel/Personal/tree/master/3.ferfer)               | Web                  |
 | [othersifer](https://github.com/Surufel/Personal/tree/master/4.othersifer)       | Miscellaneous        |
 
-Current Project: [Scanner @ Surufel Security](http://surufel.com/)
+Current Project: [Scanner @ Surufel](http://surufel.com/)
